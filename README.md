@@ -8,10 +8,11 @@
 ## Contact
 <a href="mailto:jm991014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://jongmyoung.tistory.com"><img src="https://img.shields.io/badge/Blog-EB531f?style=flat-square&logo=tistory&logoColor=white"/></a>
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jm991014"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/jm991014?pet-id=632555609431560319"
+    width="600"
+    height="120"
+  />
 </a>
