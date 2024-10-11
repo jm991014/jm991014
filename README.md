@@ -7,3 +7,11 @@
 
 ## Contact
 <a href="mailto:jm991014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://jongmyoung.tistory.com"><img src="https://img.shields.io/badge/Blog-EB531f?style=flat-square&logo=tistory&logoColor=white"/></a>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jm991014"
+  width="600"
+  height="300"
+/>
+</a>
