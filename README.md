@@ -9,11 +9,12 @@
 <a href="mailto:jm991014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://jongmyoung.tistory.com"><img src="https://img.shields.io/badge/Blog-EB531f?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jm991014&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jm991014?pet-id=635479514748108859"
+    src="https://render.gitanimals.org/lines/jm991014?pet-id=701710415547402541"
     width="600"
     height="120"
   />
 </a>
+  
   
